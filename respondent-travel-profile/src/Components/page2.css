@@ -1,0 +1,43 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333333;
+  }
+  
+  th,
+  td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  th {
+    background-color: #f8f8f8;
+    font-weight: bold;
+  }
+  
+  /* Add custom styles for each table column */
+  .blue-bg {
+    background-color: #f7fbff;
+  }
+  
+  .ivtt {
+    background-color: #fff0f0;
+  }
+  
+  .mode-4 {
+    background-color: #f7fcf5;
+  }
+  
+  .walktime-waittime {
+    background-color: #fef7e0;
+  }
+  
+  .tvariab {
+    background-color: #f9f7ff;
+  }
+  
